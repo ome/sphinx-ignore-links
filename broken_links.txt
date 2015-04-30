@@ -9,3 +9,4 @@ http://www.orbicule.com/macnification
 http://www.hibernate.org
 http://www.opera.com/download
 http://tools.ietf.org/html/rfc2616.html#section-9.1.1
+https://groups.google.com/forum/#!forum/fiji-devel
